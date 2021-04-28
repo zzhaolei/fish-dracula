@@ -12,7 +12,7 @@ if not set -q __set_fish_theme
     set -U fish_color_cwd               green
     set -U fish_color_cwd_root          red
     set -U fish_color_end               50FA7B
-    set -U fish_color_error             FFB86C
+    set -U fish_color_error             red --bold # FFB86C
     set -U fish_color_escape            00A6B2
     set -U fish_color_history_current   --bold
     set -U fish_color_host              normal
